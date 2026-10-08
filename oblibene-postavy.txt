@@ -1,0 +1,4 @@
+Harry Potter	17	muž	False	2026-09-15	4.8
+Simba	12	muž	True	2026-09-20	4.5
+Elsa	21	žena	False	2026-09-25	4.2
+Groot	15	neurčeno	True	2026-09-30	4.9
